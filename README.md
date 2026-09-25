@@ -8,6 +8,10 @@ Resolução de problema por meio de algoritmos de busca: um **usuário** (contro
 cenário, mesma posição inicial e mesmo foco de dengue como objetivo — permitindo comparar a
 decisão humana com a decisão algorítmica.
 
+> **Acompanhando o projeto?** A pasta [`contexto/`](contexto/) é o diário de bordo: em que passo
+> estamos, para onde vamos, o que falta testar e documentar. Comece por
+> [`contexto/00-LEIA-PRIMEIRO.md`](contexto/00-LEIA-PRIMEIRO.md).
+
 ## Requisitos
 
 - Python 3.10 ou superior
