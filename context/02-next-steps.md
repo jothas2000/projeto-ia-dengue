@@ -47,7 +47,7 @@ gráficos". Tabela já temos; gráfico ainda não.
 
 **Por quê:** vale 1,0 ponto e é condicionado à implementação estar completa (já está).
 
-Ver `04-o-que-documentar.md` para o detalhamento das 10 seções. Usar o modelo de trabalhos
+Ver `04-report-requirements.md` para o detalhamento das 10 seções. Usar o modelo de trabalhos
 acadêmicos da UTFPR (link no enunciado, seção 1.2.2), formatação ABNT.
 
 **Atenção:** a avaliação considera "tanto a presença das seções solicitadas quanto a qualidade,
@@ -61,7 +61,7 @@ correção e profundidade". Seção presente mas rasa não pontua integralmente.
 integrante**. Ausência conta falta como prova escrita.
 
 **Como:** todos os integrantes precisam saber explicar qualquer parte do código. O artifact de
-estudo (link em `00-LEIA-PRIMEIRO.md`) traz as 15 questões da análise comparativa já respondidas
+estudo (link em `00-README-FIRST.md`) traz as 15 questões da análise comparativa já respondidas
 com os nossos números — usar como roteiro de estudo.
 
 **Ensaiar a demonstração ao vivo:** abrir o jogo, rodar o cenário 3 com BFS, depois com A*, e

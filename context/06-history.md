@@ -60,11 +60,11 @@ do usuário ficou maior.
 ### Entregáveis do checkpoint
 - Código no GitHub: https://github.com/jothas2000/projeto-ia-dengue
 - Guia de estudo: https://claude.ai/code/artifact/e077850e-6f61-4233-bf35-dcca5a01b8b7
-- Esta pasta `contexto/`.
+- Esta pasta `context/`.
 
 ### Próximo passo
 Jogar as 3 missões manuais (`python main.py`, um cenário por vez, sem repetir) para completar as
-15 execuções exigidas. Detalhes em `02-para-onde-vamos.md`.
+15 execuções exigidas. Detalhes em `02-next-steps.md`.
 
 ---
 

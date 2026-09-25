@@ -25,7 +25,7 @@ de células, posição inicial, focos, obstáculos, terrenos e custos. Explicar 
 corresponde a um grafo implícito, indicando estados, ações, função sucessora, teste de objetivo
 e custo do caminho.
 
-**Material disponível:** tabela de formulação completa em `01-onde-estamos.md` e na seção 02 do
+**Material disponível:** tabela de formulação completa em `01-current-state.md` e na seção 02 do
 artifact. Código de referência: `src/grid.py`.
 
 **Não esquecer:** justificar os valores de custo escolhidos (1, 2, 4). O enunciado permite
@@ -40,7 +40,7 @@ Como são definidos cenários, posição inicial e foco. **Como garantimos que u
 resolvem a mesma instância.** Como ocorre a execução de ambos, como o usuário se move e como o
 deslocamento do agente é apresentado visualmente.
 
-**Material disponível:** seção "Interface gráfica" de `01-onde-estamos.md`.
+**Material disponível:** seção "Interface gráfica" de `01-current-state.md`.
 
 **Ponto forte a destacar:** o tempo do algoritmo é medido separadamente do tempo de animação
 (exigência da seção 2.4.3 do enunciado) — o agente resolve a busca inteira no instante em que a
@@ -98,9 +98,9 @@ as referências precisam ser conferidas e formalizadas.
 obstáculos, custos). As execuções do usuário e dos quatro algoritmos, organizadas em tabelas e,
 quando pertinente, gráficos.
 
-**Material disponível:** `results/execucoes_algoritmos.csv` e a tabela em `01-onde-estamos.md`.
+**Material disponível:** `results/execucoes_algoritmos.csv` e a tabela em `01-current-state.md`.
 
-**Falta:** as 3 execuções manuais e os gráficos (ver `02-para-onde-vamos.md`, itens 1 e 2).
+**Falta:** as 3 execuções manuais e os gráficos (ver `02-next-steps.md`, itens 1 e 2).
 
 **Formato de tabela sugerido pelo enunciado:**
 `Cenário | Método | Passos | Custo | Tempo | Estados Expandidos | Estados Gerados | Etc`

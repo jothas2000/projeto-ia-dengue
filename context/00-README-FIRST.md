@@ -8,13 +8,13 @@ o código inteiro.
 
 | Arquivo | Para que serve |
 |---|---|
-| `00-LEIA-PRIMEIRO.md` | Este arquivo. Mapa da pasta. |
-| `01-onde-estamos.md` | **Estado atual.** O que já está pronto e funcionando. |
-| `02-para-onde-vamos.md` | **Próximos passos**, em ordem de prioridade, com prazos. |
-| `03-o-que-testar.md` | Checklist de testes, incluindo o que ainda não foi testado. |
-| `04-o-que-documentar.md` | O que o relatório técnico exige, seção por seção. |
-| `05-decisoes-tecnicas.md` | Decisões tomadas e **por quê** — material direto para a defesa oral. |
-| `06-historico.md` | Registro cronológico dos checkpoints. |
+| `00-README-FIRST.md` | Este arquivo. Mapa da pasta. |
+| `01-current-state.md` | **Estado atual.** O que já está pronto e funcionando. |
+| `02-next-steps.md` | **Próximos passos**, em ordem de prioridade, com prazos. |
+| `03-testing.md` | Checklist de testes, incluindo o que ainda não foi testado. |
+| `04-report-requirements.md` | O que o relatório técnico exige, seção por seção. |
+| `05-technical-decisions.md` | Decisões tomadas e **por quê** — material direto para a defesa oral. |
+| `06-history.md` | Registro cronológico dos checkpoints. |
 
 ## Regra da pasta
 

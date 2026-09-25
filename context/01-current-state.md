@@ -31,7 +31,7 @@ estados expandidos, estados gerados, fronteira máxima, tempo e ordem de explora
 
 ### Heurística — `src/search/heuristics.py`
 `h(n) = distância_manhattan(n, objetivo) × custo_mínimo`, com `custo_mínimo = 1`.
-Admissível e consistente — justificativa completa em `05-decisoes-tecnicas.md`.
+Admissível e consistente — justificativa completa em `05-technical-decisions.md`.
 
 ### Cenários — `src/scenarios.py`
 | Cenário | Dimensões | Focos | Característica |
